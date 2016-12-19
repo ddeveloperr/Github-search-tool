@@ -1,4 +1,4 @@
-# Github-search-tool * [DEMO](https://run.plnkr.co/plunks/BajluJfKAqTs7WC5v5GL/)
+# Github-search-tool * [DEMO](https://embed.plnkr.co/fM5zNoUgNp8LAXpPcd3w/)
  
  This is simple tool for searching github users and analyze details...try to search yourself :)
 
